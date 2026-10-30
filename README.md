@@ -23,6 +23,7 @@ A Drone Programming Course I did to Show my Understanding of Computer Vision Int
 - Make Sure to Install the Tello App on your Phone
 - Make Sure to Turn on the Drone & Connect to its Associated Network
 
-# Resources
+# Resources 
 
-- Link = https://www.youtube.com/watch?v=LmEcyQnfpDA&list=PLMoSUbG1Q_r9p7iYBg6z6tZP002DAJ41H&index=3
+- Youtube Link = https://www.youtube.com/watch?v=LmEcyQnfpDA&list=PLMoSUbG1Q_r9p7iYBg6z6tZP002DAJ41H&index=3
+- Full Playlist = https://www.youtube.com/playlist?list=PLMoSUbG1Q_r9p7iYBg6z6tZP002DAJ41H
